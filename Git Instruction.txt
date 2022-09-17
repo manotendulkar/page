@@ -1,9 +1,0 @@
-First git need to be Started in the project Page.
-
-for changing directory that from C local drive to any other local drive of Command Prompt
-
-use {cd ..} to back from the folder
-
-after coming full back from C local drive change the drive using {cd /d D:} it will change drive C to D.
-
-to move inside the folder type {cd folder_name} move util you reach the Project folder.
